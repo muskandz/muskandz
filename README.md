@@ -47,4 +47,4 @@ I'm a sophomore pursuing B.Tech in Computer Science Engineering. My passion lies
 - She/Her
 
 ## ⚡ Fun fact
-- I enjoy playing badminton, playing paino  and reading books.
+- I enjoy playing badminton, playing piano  and reading books.
