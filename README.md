@@ -53,7 +53,7 @@
   
 [![Muskan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muskandz&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Muskan's github stats](https://github-readme-stats.vercel.app/api?username=muskandz&show_icons=true&theme=tokyonight) | ![Muskan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muskandz&theme=tokyonight) |
+| ![Muskan's github stats](https://github-readme-stats.vercel.app/api?username=muskandz&show_icons=true&theme=tokyonight) | ![Muskan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muskandz) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskandz&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=muskandz&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
