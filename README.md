@@ -1,50 +1,69 @@
-### Hi there 👋
+<p align="center">
+    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+</p>
 
-<!--
-**muskandz/muskandz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there, I'm Muskan Dadhich! 👋
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
+[![Github](https://img.shields.io/github/followers/A=muskandz?label=Follow&style=social)](https://github.com/muskandz)
 
-I'm a sophomore pursuing B.Tech in Computer Science Engineering. My passion lies in exploring the realms of technology, with a keen interest in Software Development and artificial intelligence.
+<div size='20px'> Hi! My name is Muskan. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
-## 👩‍💻 My Tehnical Skills
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"><a href="https://www.w3schools.com/css/" target="_blank"> <a href="https://www.mathworks.com/" target="_blank"> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <br> <a href="https://www.w3schools.com/js/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40"></a> <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://getbootstrap.com/&ved=2ahUKEwjko-PU2qWFAxUcafUHHT1UD14QFnoECAcQAQ&usg=AOvVaw3s0qqZzEfHTiGFr9v0jCTN" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="Bootstrap"></a> <a href="https://jquery.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" height="40" width="40" alt="jQuery"></a> <a target="_blank" href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://react.dev/&ved=2ahUKEwjmgMLY46WFAxWwb_UHHS0tCV4QFnoECAYQAQ&usg=AOvVaw1tEjYYiD7LQlxO53dgjTHV"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" width="40" alt="react"></a> <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nodejs.org/en&ved=2ahUKEwjngKri5KWFAxXUnK8BHaZCCGAQFnoECGYQAQ&usg=AOvVaw1dFXYHr5kNGMvANfSjX4lC" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" height="40" width="40" alt="nodejs"></a></p>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-## 🔭 I’m currently working on
-- Enhancing my skills in C, C++, Python, HTML, CSS, and JavaScript.
-- Exploring machine learning concepts and eager to learn DBMs.
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-## 🌱 I’m currently learning
-- Machine learning theory and its practical applications.
-- Developing projects to strengthen my skills and prepare for internships.
+- 🔭 I’m currently pursuing B.Tech in CSE(3rd year)
+  
+- 🌱 I’m currently learning Git, Java y GitHub
+  
+- 👯 I’m looking to collaborate on real-world projects
+  
+- 💬 Ask me about Sql, Java, Python, C++, JavaScript
 
-## 👯 I’m looking to collaborate on
-- Projects related to software development, AI, and machine learning.
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/muskandz?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/muskandz?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/muskandz?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/muskandz?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
+<a href= https://github.com/muskandz?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/muskandz?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/muskandz?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+<a href= https://github.com/muskandz?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
+<a href= https://github.com/muskandz?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/muskandz?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/muskandz?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
+<a href= https://github.com/muskandz?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 
-## 🤔 I’m looking for help with
-- Finding innovative project ideas to showcase my skills.
 
-## 💬 Ask me about
-- My academic journey and career aspirations.
-- Tech discussions, especially related to software and AI.
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/muskan-dadhich-39a166266/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://x.com/MuskanDadhich03'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://medium.com/@muskandadhich14'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+<a href = 'http://muskandz/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/muskandz'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  
+<br>
+<br>
+  <br>
+  
+[![Muskan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muskandz&theme=tokyonight)](https://git.io/praveenscience)
 
-## 📫 How to reach me
-- Connect with me on [LinkedIn](<https://www.linkedin.com/in/muskan-dadhich-39a166266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app>).
-- Follow me on [Twitter](<https://x.com/MuskanDadhich03?t=fH5sHgjO07tLDS3jpxaMpQ&s=09>).
+| ![Muskan's github stats](https://github-readme-stats.vercel.app/api?username=muskandz&show_icons=true&theme=tokyonight) | ![Muskan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muskandz&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskandz&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=muskandz&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-## 😄 Pronouns
-- She/Her
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
-## ⚡ Fun fact
-- I enjoy playing badminton, playing piano  and reading books.
+
+<br>
+
+
+-----
+Credits: [Muskan Dadhich](https://github.com/muskandz)
+
+Last Edited on: 10/01/25
